@@ -12,7 +12,7 @@ body {
   overflow: hidden;
   text-align: center;
   text-transform: uppercase;
-  font: 26vmax/1 Open Sans, Impact;
+  font: 6vmax/1 Open Sans, Impact;
   /* Hack to hide thin transparent lines while resize objects */ }
   .box-with-text:before {
     content: '';
