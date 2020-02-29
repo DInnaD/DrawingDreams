@@ -133,7 +133,7 @@ a:hover, a:focus,
 }
 
 @media screen and (max-width: 40em) {
-	.codrops-demo a {
+	.codrops-demos a {
 		font-size: 80%;
 	}
 /* Content */
