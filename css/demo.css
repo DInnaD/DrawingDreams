@@ -128,13 +128,13 @@ a:hover, a:focus,
 .codrops-demos a {
 	display: inline-block;
 	margin: 0 0.5em;
-	font-size: 130%;
+	font-size: 30%;
 	text-transform: uppercase;
 }
 
 @media screen and (max-width: 40em) {
 	.codrops-demos a {
-		font-size: 80%;
+		font-size: 15%;
 	}
 /* Content */
 .content {
