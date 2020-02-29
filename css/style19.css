@@ -9,7 +9,7 @@ body {
 /* Main stuff */
 .box-with-text {
   position: relative;
-  overflow: hidden;
+  /*overflow: hidden;*/
   text-align: center;
   text-transform: uppercase;
   font: 6vmax/1 Open Sans, Impact;
@@ -30,7 +30,13 @@ body {
     bottom: -2px;
     left: -2px;
     display: block;
-    border: 4px solid black; }
+    border: 4px solid White;
+    
+    
+    background: black;
+  color: white;
+  mix-blend-mode: darken;
+}
 
 .text-header {
   position: relative;
@@ -38,7 +44,7 @@ body {
   background: black;
   color: white;
   mix-blend-mode: darken;
-  bottom: 8px;
+  bottom: 8px;/*i add*/
 }
 
 @-webkit-keyframes shadows-cells {
