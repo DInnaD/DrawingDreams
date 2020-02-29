@@ -131,6 +131,11 @@ a:hover, a:focus,
 	font-size: 130%;
 	text-transform: uppercase;
 }
+
+@media screen and (max-width: 40em) {
+	.codrops-demo a {
+		font-size: 80%;
+	}
 /* Content */
 .content {
 	text-align: center;
