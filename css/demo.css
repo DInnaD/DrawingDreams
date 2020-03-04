@@ -49,16 +49,7 @@ a:hover, a:focus,
 	padding: 3em 1em 4em;
 	text-align: center;
     }
-.codrops-header-2 {
-	padding: 2em 1em;
-	text-align: center;
-    position: relative;
-    display: block;
-    background: #f705051a;
-    color: white;
-    mix-blend-mode: difference;
-    bottom: 8px;
-}
+
 
 .codrops-header h1 {
 	font-weight: 800;
