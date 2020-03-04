@@ -37,7 +37,7 @@ body {
 .text-header {
   position: relative;
   display: block;
-  background: #300238;
+  background: #f7050b;
   color: white;
   mix-blend-mode: darken;
   bottom: 8px;/*i add*/
