@@ -1,4 +1,4 @@
-*****Культура ІТ дитячі курси від 4 до 100:)*****
+*****Культура ІТ дитячі курси від 4 до 100:)*****#КультураІТ
 =========+ Please LET'S LEARN FREE ENGLISH, Let's Go To The Library https://www.facebook.com/woapoltava/ OR ANY CITY OF THE WORLD WITH WINDOWS ON AMERICA.
 =========
 
@@ -13,7 +13,7 @@
 =========
 Від 7 до 14 років ІТ СКРЕЙTЧ.
 =========
-Від 14 до 100 років FREE COURCES Full stack Web Development with References Projects and Working Place.
+Від 14 до 100 років FREE COURCES від Full stack Web Development with References Projects and Working Place.
 =========
 
 (Animated) Text Fills
